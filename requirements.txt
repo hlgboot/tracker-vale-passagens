@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]
+python-telegram-bot
+requests
+truststore
+dotenv
+telegram
